@@ -1,0 +1,2 @@
+# cloudstream
+host
